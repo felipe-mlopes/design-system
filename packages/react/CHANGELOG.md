@@ -1,5 +1,11 @@
 # @felipelopes-ignite-ui/react
 
+## 3.0.0
+
+### Major Changes
+
+- 7a01f65: Add directory name
+
 ## 2.0.0
 
 ### Major Changes
