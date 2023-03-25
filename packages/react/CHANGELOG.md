@@ -1,4 +1,4 @@
-# @ignite-ui/react
+# @felipelopes-ignite-ui/react
 
 ## 2.0.0
 
