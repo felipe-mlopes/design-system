@@ -19,7 +19,7 @@ export default {
       }
     },
     size: {
-      options: ['sm', 'md'],
+      options: ['sm', 'md', 'lg'],
       control: {
         type: 'inline-radio'
       }
