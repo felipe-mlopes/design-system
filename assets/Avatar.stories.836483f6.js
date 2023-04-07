@@ -1,0 +1,2 @@
+import{A as t}from"./index.60f45deb.js";import"./index.f1d7d313.js";import"./iframe.571bfdb6.js";import"./index.74d1cea7.js";import"./jsx-runtime.f39375be.js";const e={title:"Data display/Avatar",component:t,args:{src:"https://github.com/felipe-mlopes.png",alt:"Felipe Lopes"},argTypes:{src:{control:{type:"text"}}}},i={},c={args:{src:void 0}},l=["Primary","WithFallback"];export{i as Primary,c as WithFallback,l as __namedExportsOrder,e as default};
+//# sourceMappingURL=Avatar.stories.836483f6.js.map
